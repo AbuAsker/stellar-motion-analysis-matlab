@@ -24,6 +24,7 @@ Hydrogen, a major component of most stars, absorbs light at exactly 656.28 nm (t
 ![Stellar spectrum](spectrum.png)
 
 **Star speed = -100.5 km/s** (negative = blueshift, the star is moving toward Earth)
+
 ## Data
 
 `starData.mat` is provided by MATLAB Onramp and is not included in this repo. To run the script, download it from the course (Project: Stellar Motion).
